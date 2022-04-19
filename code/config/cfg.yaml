@@ -1,0 +1,6 @@
+train_csv_path: 'D:/dataset_garb/jupyter_code/after_div1_combine_train.csv'
+val_csv_path: 'D:/dataset_garb/jupyter_code/after_div1_combine_val.csv'
+l_r: 1e-3
+weight_decay: 5e-7
+num_epoch: 300
+model_path: 'code/weight/gabtest3_50_withval_cbamAA_au3.pth'

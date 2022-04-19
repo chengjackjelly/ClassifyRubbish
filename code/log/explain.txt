@@ -1,0 +1,7 @@
+error1.txt 错误分类图像地址
+report.json res34 2w9张图片训练集结果
+report1.json res50 2w9张图片训练集结果
+train_1xxx
+train_2/val_2 res50 训练集+验证集 基础模型
+train_3/val_3 res50 训练集+验证集 损失函数方案1
+val3.1
